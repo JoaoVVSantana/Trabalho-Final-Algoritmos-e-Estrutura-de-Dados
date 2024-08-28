@@ -1,0 +1,1 @@
+O main está na classe teste.
